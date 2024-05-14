@@ -10,9 +10,9 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Workshops 2024"
-description:	       "Bioinformatics workshops at QIB"
-author:              "Andrea Telatin"
+title:		           "Building Bridges"
+description:	       "Workshop on EU partnerships and Grant Writing using AI"
+author:              "Lisa Marchioretto"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

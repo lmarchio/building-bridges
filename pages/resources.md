@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Learning Resources
+title: About
 category: resources
-permalink: /resources
+permalink: /about
 ---

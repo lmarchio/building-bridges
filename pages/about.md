@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Calendar
-permalink: /about
+permalink: /calendar
 ---
 
-[![pages-build-deployment](https://github.com/quadram-institute-bioscience/workshops-2024/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/quadram-institute-bioscience/workshops-2024/actions/workflows/pages/pages-build-deployment)
 
-This website collects and share information about the training and workshop activities organised by Core Bioinformatics at [QIB](https://www.quadram.ac.uk) in 2024.
+
+This website collects and share information about the training and workshop activities 
+organised by Lisa Marchioretto at [QIB](https://www.quadram.ac.uk).
 
 ## Calendar
 
@@ -20,23 +21,3 @@ This website collects and share information about the training and workshop acti
 | 20-24 May       | [Large Scale Analysis of Microbial genomes]({{ site.baseurl }}{% post_url 2023-01-10-large-scale %}) | In the page                                                                           |
 | June (1st week) | [Anvi'o Workshop]({{ site.baseurl }}{% post_url 2023-06-01-anvio %})                                 | In the page                                                                           |
 | June 25         | [MetaPhlAn and HuMANN]({{ site.baseurl }}{% post_url 2023-05-01-biobakery %})                        | In the page                                                                           |
-
-## Topics
-
-### Metagenomics
-
-* [MetaPhlAn and HuMANN]({{ site.baseurl }}{% post_url 2023-05-01-biobakery %}) with the authors
-* [Anvi'o Workshop]({{ site.baseurl }}{% post_url 2023-06-01-anvio %}) with the authors
-
-### Data Analysis
-
-* Data Science
-* March 2024, [Machine Learning]({{ site.baseurl }}{% post_url 2023-01-01-machine-learning %})
-
-## Bioinformatics
-
-* 18-20 March 2024, [nf-core hackathon]({{ site.baseurl }}{% post_url 2023-01-02-nf-core %})
-
-## (Phylo)genomics
-
-* 20-24 May 2024, [Large Scale Analysis of Microbial genomes]({{ site.baseurl }}{% post_url 2023-01-10-large-scale %})
