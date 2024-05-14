@@ -6,6 +6,7 @@ permalink: /calendar
 
 
 
+
 This website collects and share information about the training and workshop activities 
 organised by Lisa Marchioretto at [QIB](https://www.quadram.ac.uk).
 
