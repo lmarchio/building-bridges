@@ -4,7 +4,7 @@ title: "About this website"
 author: "QIB"
 categories: resources
 tags: [documentation]
-image: eu.jpg
+image: eu2.jpg
 ---
 
 ## Workshops
