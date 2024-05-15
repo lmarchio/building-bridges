@@ -14,5 +14,3 @@ Join us on this transformative journey as we offer unparalleled opportunities fo
 
 * [Horizon Europe]({{ site.baseurl }}{%  post_url 2023-01-02-horizon %})
 * [AI for Grant Writing]({{ site.baseurl }}{%  post_url 2023-01-01-ai %})
-
-Write here...
