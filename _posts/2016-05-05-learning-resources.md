@@ -11,6 +11,7 @@ At the Quadram Institute Bioscience (QIB) we believe in the power of collaborati
 Join us on this transformative journey as we offer unparalleled opportunities for scientists, project managers, programme managers, grants managers, and support staff to expand their expertise, learn new ways to support each other, access world-class infrastructure, and contribute to groundbreaking research projects.
 
 ## Workshops
+
 * [Horizon Europe]({{ site.baseurl }}{%  post_url 2023-01-02-horizon %})
 * [AI for Grant Writing]({{ site.baseurl }}{%  post_url 2023-01-01-ai %})
 
